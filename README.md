@@ -1,4 +1,4 @@
-# FSI – Simulation of Dynamic Systems
+# Simulation of Dynamic Systems
 
 ## Objective of the course – aims of the course unit:
 The aim of the course is to make students familiar with the methods and selected software supporting the computer simulation.
